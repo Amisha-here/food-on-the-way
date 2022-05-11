@@ -1,4 +1,4 @@
-# uber- eats - clone
+# uber-eats-clone
 React native App 
 
 | <img src="https://github.com/lewenbach228/uberClone/blob/master/screenshots/Screenshot_20220308-102919.png" width="250"> | 
